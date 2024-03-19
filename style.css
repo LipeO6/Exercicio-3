@@ -1,0 +1,12 @@
+.paragrafo-normal{
+    background-color: #F5F5F5;
+}
+
+.paragrafo-especial {
+    background-color: #F0CCE2;
+}
+
+.texto {
+    padding: 20px;
+    margin: 40px;
+}
